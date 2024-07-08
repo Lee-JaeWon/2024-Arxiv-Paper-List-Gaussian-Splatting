@@ -1,7 +1,7 @@
 # 2024-Arxiv-Paper-List-Gaussian-Splatting
 This is crawled to find out about the 2024 **gaussian splatting** papers in arxiv. There may be errors, so please leave a Pull Request or Issue and i will actively apply it.
 
-Updated on June 17.
+Updated on July 08.
 
 The Arxiv paper, which was published in 2023, is in the [Lee-JaeWon/2023-Arxiv-Paper-List-Gaussian-Splatting](https://github.com/Lee-JaeWon/2023-Arxiv-Paper-List-Gaussian-Splatting) repository.
 
