@@ -5,7 +5,7 @@ Updated on DECEMBER 26, 2024
 
 The Arxiv paper, which was published in 2023, is in the [Lee-JaeWon/2023-Arxiv-Paper-List-Gaussian-Splatting](https://github.com/Lee-JaeWon/2023-Arxiv-Paper-List-Gaussian-Splatting) repository.
 
-We are preparing for the upcoming year 2025 with [Lee-JaeWon/2025-Arxiv-Paper-List-Gaussian-Splatting](https://github.com/Lee-JaeWon/2025-Arxiv-Paper-List-Gaussian-Splatting). If you have any suggestions for improvement, please feel free to open an issue!
+From now on, we will be updating the Gaussian Splatting paper list for 2025 at [Lee-JaeWon/2025-Arxiv-Paper-List-Gaussian-Splatting](https://github.com/Lee-JaeWon/2025-Arxiv-Paper-List-Gaussian-Splatting).
 
 # Paper List
 
